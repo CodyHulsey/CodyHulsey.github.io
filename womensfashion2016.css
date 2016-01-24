@@ -20,16 +20,22 @@ there are definitely some properties you should add!*/
       margin: 40px;
       font-family: Arial, Helvetica, sans-serif;
       text-align: center;
+      font color: #000000;
+
 
     }
     nav {
         float: left;
+        font color: #000000;
+
     }
     nav ul {
         padding: ;
         float: left;
         border-bottom: ;
         list-style-type: none;
+        font color: #000000;
+
     }
     nav li {
         float: left;
@@ -65,4 +71,7 @@ there are definitely some properties you should add!*/
         color:;
         clear: both;
         display: block;
+    }
+    p {
+      font color: #000000;
     }
