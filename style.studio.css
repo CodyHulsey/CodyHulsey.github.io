@@ -37,6 +37,11 @@ html {
     }
     img {
       align-content: center;
+      text-align: center;
+    }
+
+    div {
+        text-align: center
     }
 
     a {
