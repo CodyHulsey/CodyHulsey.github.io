@@ -40,9 +40,10 @@ html {
       }
 
     section {
-        width: 73%;
-        display: inline-block;
-        float: none;
+      width: auto;
+      display: inline-block;
+      float: left;
+      text-align: center;
     }
     aside {
         width: 17%;
@@ -60,4 +61,8 @@ html {
         color:;
         clear: both;
         display: block;
+    }
+    p {
+      text-align: center;
+
     }
