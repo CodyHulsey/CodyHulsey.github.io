@@ -26,6 +26,7 @@ html {
         border-bottom: ;
         list-style-type: none;
         align-content: center;
+        font color: #000000;
     }
     nav li {
         float: none;
